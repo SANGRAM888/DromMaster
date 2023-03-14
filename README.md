@@ -1,2 +1,2 @@
-# DromMaster
-A Drom play Game
+# DrumMaster
+A Drum play Game
